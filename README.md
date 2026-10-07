@@ -8,3 +8,8 @@
 -All By IcedCave
 
 -2.2 Port By RazzberryLeaf On Youtube
+
+## Requirements
+Geode (downloadable on geode-sdk.org)
+
+Texture Loader (Installable On Geode)
